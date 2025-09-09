@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *Rahul Maddineni, DS25M008, Rahul-DS25M008*
+- *Rahul Maddineni, DS25M008, [Rahul-DS25M008](https://github.com/Rahul-DS25M008)*
 
 ## Goals
 
