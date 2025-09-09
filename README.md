@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- *Rahul Maddineni, DS25M008, Rahul-DS25M008*
 
 ## Goals
 
