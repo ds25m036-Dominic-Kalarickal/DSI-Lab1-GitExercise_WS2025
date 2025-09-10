@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- *Philipp Seidl, 2510854043, [philippseidl](https://github.com/philippseidl)*
 
 ## Goals
 
