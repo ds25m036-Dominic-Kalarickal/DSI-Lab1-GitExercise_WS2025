@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- Mira Radakovic, 62005377, [ds24m042-mira-radakovic] (https://github.com/ds24m042-mira-radakovic)
 
 ## Goals
 
