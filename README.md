@@ -28,6 +28,8 @@ Your entry should maintain alphabetical order and use this format:
 
 - *(add your entry here in alphabetical order)*
 
+- Ghanem Ayman, ds25m029, @aymxng
+
 ## Goals
 
 - Practice forking repositories  
