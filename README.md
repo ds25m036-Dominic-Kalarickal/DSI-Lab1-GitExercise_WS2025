@@ -27,6 +27,7 @@ Your entry should maintain alphabetical order and use this format:
 ## Participants
 
 - *(add your entry here in alphabetical order)*
+- Bouslama, 2510854020, ds25m020-Bouslama
 
 ## Goals
 
