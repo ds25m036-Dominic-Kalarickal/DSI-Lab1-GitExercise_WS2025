@@ -27,6 +27,7 @@ Your entry should maintain alphabetical order and use this format:
 ## Participants
 
 - *(add your entry here in alphabetical order)*
+Dominic Kalarickal, ds25m036, [ds25m036-Dominic-Kalarickal] https://github.com/ds25m036-Dominic-Kalarickal
 
 ## Goals
 
