@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- Springer Christoph, ds25m044, [ds25m044-christoph-springer](https://github.com/ds25m044-christoph-springer)
 
 ## Goals
 
