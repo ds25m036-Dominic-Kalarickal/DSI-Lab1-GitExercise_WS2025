@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- Rojan Faroughi
+- Rojan Faroughi, DS25M005, [RojanFaroughi](https://github.com/RojanFaroughi)
 
 ## Goals
 
