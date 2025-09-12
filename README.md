@@ -27,6 +27,8 @@ Your entry should maintain alphabetical order and use this format:
 ## Participants
 
 - *(add your entry here in alphabetical order)*
+- Anwar Muzammal, ds25m004, ds25m004-Muzammal-Anwar (https://github.com/ds25m004-Muzammal-Anwar)
+
 
 ## Goals
 
