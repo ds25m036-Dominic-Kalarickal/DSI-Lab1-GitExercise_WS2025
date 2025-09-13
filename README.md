@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+Helga Deutschmann, ds25m046, [ds25m046-Helga](https://github.com/ds25m046-Helga)
 
 ## Goals
 
