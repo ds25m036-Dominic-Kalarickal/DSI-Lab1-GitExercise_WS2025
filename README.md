@@ -27,6 +27,7 @@ Your entry should maintain alphabetical order and use this format:
 ## Participants
 
 - *(add your entry here in alphabetical order)*
+- Gorkem Sakarya  - ds25m011 - https://github.com/sakaryag
 
 ## Goals
 
