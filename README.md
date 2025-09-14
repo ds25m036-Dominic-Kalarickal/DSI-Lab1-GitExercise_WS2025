@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- Mered Wolde, ds25m045, [Wolde-ds25m045](https://github.com/Wolde-ds25m045)
 
 ## Goals
 
