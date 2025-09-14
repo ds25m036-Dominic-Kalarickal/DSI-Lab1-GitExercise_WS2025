@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- Mehofer Florian, ds25m048, [FlorianMehofer](https://github.com/FlorianMehofer)
 
 ## Goals
 
