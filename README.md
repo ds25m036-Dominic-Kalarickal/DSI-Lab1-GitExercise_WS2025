@@ -26,7 +26,8 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- Mahmoud Lasheen, ds25m012, [MahmoudLasheen11](https://github.com/MahmoudLasheen11)
+
 
 ## Goals
 
