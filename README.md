@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- SCHWABE Lara, ds25m009, [ds25m009-Lara-Schwabe](https://github.com/ds25m009-Lara-Schwabe)
 
 ## Goals
 
