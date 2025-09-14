@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+Yingying HU, ds25m047, [Yingyinghu66](https://github.com/Yingyinghu66)
 
 ## Goals
 
