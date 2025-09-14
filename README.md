@@ -21,7 +21,7 @@ This repository is a sandbox to practice the basic Git workflow of **fork → br
 Your entry should maintain alphabetical order and use this format:
 
 ```
-* Your Name, Student ID, [username](https://github.com/username)
+* Ezgican Kaya, ds25m021, [ds25m021](https://github.com/ds25m021)
 ```
 
 ## Participants
