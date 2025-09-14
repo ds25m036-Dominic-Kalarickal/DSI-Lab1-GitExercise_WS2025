@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- * Dzemal Bilalic, ds25m031, [ds25m031](https://github.com/ds25m031)
 
 ## Goals
 
