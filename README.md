@@ -21,12 +21,12 @@ This repository is a sandbox to practice the basic Git workflow of **fork → br
 Your entry should maintain alphabetical order and use this format:
 
 ```
-* Your Name, Student ID, [username](https://github.com/username)
+* Anna Tschon, ds25m028, [anna-tschon](https://github.com/anna-tschon)
 ```
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- *(Anna Tschon)*
 
 ## Goals
 
