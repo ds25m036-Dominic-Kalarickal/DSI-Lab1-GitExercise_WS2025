@@ -28,9 +28,11 @@ Your entry should maintain alphabetical order and use this format:
 
 - *(add your entry here in alphabetical order)*
 
+Ivaylo Iliev, 2510854050, iliev2000 https://github.com/iliev2000
+
 ## Goals
 
-- Practice forking repositories  
+- Practice forking repositories 
 - Work with branches  
 - Make and commit changes  
 - Push changes and open pull requests  
