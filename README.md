@@ -26,7 +26,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *(add your entry here in alphabetical order)*
+- * Livia Zylja, ds25m023, [LiviaZylja-ds25m023](https://github.com/LiviaZylja-ds25m023)
 
 ## Goals
 
