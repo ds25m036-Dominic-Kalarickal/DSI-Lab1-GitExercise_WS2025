@@ -23,7 +23,6 @@ Your entry should maintain alphabetical order and use this format:
 
 ```         
 * Your Name, Student ID, [username](https://github.com/username)
-* Harprit Sumon, 2510854034, [harprit-DS25](https://github.com/harprit-DS25)
 
 ```
 
@@ -40,11 +39,13 @@ Your entry should maintain alphabetical order and use this format:
 - Denis Hoxha, ds25m032, [ds25m032-Denis-Hoxha](https://github.com/ds25m032-Denis-Hoxha) 
 - Yevgen Kolesnyk, ds24m046, https://github.com/ds24m046
 - Edberto Moura Lima, ds25m025, [ds25m025edbertolima](https://github.com/ds25m025edbertolima)
+- Mehofer Florian, ds25m048, [FlorianMehofer](https://github.com/FlorianMehofer)
 - Rahul Maddineni, DS25M008, [Rahul-DS25M008](https://github.com/Rahul-DS25M008)
 - Bernhard Prinz, ds25m027, [ds25m037-prinz](https://github.com/ds25m037-prinz)
 - Mira Radakovic, 62005377, [ds24m042-mira-radakovic](https://github.com/ds24m042-mira-radakovic)
 - Gorkem Sakarya  - ds25m011 - https://github.com/sakaryag
 - Philipp Seidl, 2510854043, [philippseidl](https://github.com/philippseidl)
+- Harprit Sumon, 2510854034, [harprit-DS25](https://github.com/harprit-DS25)
 - Bishal Upadhyaya, ds25m017, Bishal-M017 (https://github.com/Bishal-M017)
 - Springer Christoph, ds25m044, [ds25m044-christoph-springer](https://github.com/ds25m044-christoph-springer)
 
