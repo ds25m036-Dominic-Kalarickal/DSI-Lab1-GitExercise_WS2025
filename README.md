@@ -23,6 +23,8 @@ Your entry should maintain alphabetical order and use this format:
 
 ```         
 * Your Name, Student ID, [username](https://github.com/username)
+* Harprit Sumon, 2510854034, [harprit-DS25](https://github.com/harprit-DS25)
+
 ```
 
 ## Participants
