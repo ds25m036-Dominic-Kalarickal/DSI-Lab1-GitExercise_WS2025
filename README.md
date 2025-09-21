@@ -29,6 +29,7 @@ Your entry should maintain alphabetical order and use this format:
 
 - Anwar Muzammal, ds25m004, ds25m004-Muzammal-Anwar (https://github.com/ds25m004-Muzammal-Anwar)
 - Bouslama, 2510854020, ds25m020-Bouslama
+- Helga Deutschmann, ds25m046, [ds25m046-Helga](https://github.com/ds25m046-Helga)
 - Ghanem Ayman, ds25m029, @aymxng
 - Rojan Faroughi, DS25M005, [RojanFaroughi](https://github.com/RojanFaroughi)
 - Christoph Gooss, ds25m040, [ds25m040-Christoph-Gooss](https://github.com/ds25m040-Christoph-Gooss)
