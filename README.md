@@ -54,6 +54,7 @@ Your entry should maintain alphabetical order and use this format:
 - Springer Christoph, ds25m044, [ds25m044-christoph-springer](https://github.com/ds25m044-christoph-springer)
 - Harprit Sumon, 2510854034, [harprit-DS25](https://github.com/harprit-DS25)
 - Bishal Upadhyaya, ds25m017, Bishal-M017 (https://github.com/Bishal-M017)
+- Mered Wolde, ds25m045, [Wolde-ds25m045](https://github.com/Wolde-ds25m045)
 
 ## Goals
 
