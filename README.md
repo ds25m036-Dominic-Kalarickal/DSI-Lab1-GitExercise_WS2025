@@ -26,7 +26,8 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- *Christoph Gooss, ds25m040, [ds25m040-Christoph-Gooss](https://github.com/ds25m040-Christoph-Gooss)*
+- Christoph Gooss, ds25m040, [ds25m040-Christoph-Gooss](https://github.com/ds25m040-Christoph-Gooss)
+- Bernhard Prinz, ds25m027, [ds25m037-prinz](https://github.com/ds25m037-prinz)
 
 ## Goals
 
