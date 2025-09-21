@@ -43,6 +43,7 @@ Your entry should maintain alphabetical order and use this format:
 - Ivaylo Iliev, 2510854050, iliev2000 https://github.com/iliev2000
 - Ezgican Kaya, ds25m021, [ds25m021](https://github.com/ds25m021)
 - Yevgen Kolesnyk, ds24m046, https://github.com/ds24m046
+- Mahmoud Lasheen, ds25m012, [MahmoudLasheen11](https://github.com/MahmoudLasheen11)
 - Patrik Lenart
 - Edberto Moura Lima, ds25m025, [ds25m025edbertolima](https://github.com/ds25m025edbertolima)
 - Mehofer Florian, ds25m048, [FlorianMehofer](https://github.com/FlorianMehofer)
