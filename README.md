@@ -30,6 +30,7 @@ Your entry should maintain alphabetical order and use this format:
 - Bouslama, 2510854020, ds25m020-Bouslama
 - Ghanem Ayman, ds25m029, @aymxng
 - Christoph Gooss, ds25m040, [ds25m040-Christoph-Gooss](https://github.com/ds25m040-Christoph-Gooss)
+- Gerta Hajrullahi, ds25m024, ds25m024: https://github.com/ds25m024
 - Denis Hoxha, ds25m032, [ds25m032-Denis-Hoxha](https://github.com/ds25m032-Denis-Hoxha) 
 - Yevgen Kolesnyk, ds24m046, https://github.com/ds24m046
 - Rahul Maddineni, DS25M008, [Rahul-DS25M008](https://github.com/Rahul-DS25M008)
