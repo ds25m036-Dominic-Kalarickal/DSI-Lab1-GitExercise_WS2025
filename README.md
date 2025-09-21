@@ -33,6 +33,8 @@ Your entry should maintain alphabetical order and use this format:
 - Mira Radakovic, 62005377, [ds24m042-mira-radakovic](https://github.com/ds24m042-mira-radakovic)
 - Philipp Seidl, 2510854043, [philippseidl](https://github.com/philippseidl)
 
+- Ghanem Ayman, ds25m029, @aymxng
+
 ## Goals
 
 - Practice forking repositories  
