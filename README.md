@@ -60,6 +60,7 @@ Your entry should maintain alphabetical order and use this format:
 - Anna Tschon, ds25m028, [anna-tschon](https://github.com/anna-tschon)
 - Bishal Upadhyaya, ds25m017, Bishal-M017 (https://github.com/Bishal-M017)
 - Mered Wolde, ds25m045, [Wolde-ds25m045](https://github.com/Wolde-ds25m045)
+- Livia Zylja, ds25m023, [LiviaZylja-ds25m023](https://github.com/LiviaZylja-ds25m023)
 
 ## Goals
 
