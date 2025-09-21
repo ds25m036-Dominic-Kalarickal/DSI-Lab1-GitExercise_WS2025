@@ -48,6 +48,7 @@ Your entry should maintain alphabetical order and use this format:
 - Mira Radakovic, 62005377, [ds24m042-mira-radakovic](https://github.com/ds24m042-mira-radakovic)
 - Gorkem Sakarya  - ds25m011 - https://github.com/sakaryag
 - Yingying HU, ds25m047, [Yingyinghu66](https://github.com/Yingyinghu66)
+- SCHWABE Lara, ds25m009, [ds25m009-Lara-Schwabe](https://github.com/ds25m009-Lara-Schwabe)
 - Philipp Seidl, 2510854043, [philippseidl](https://github.com/philippseidl)
 - Harprit Sumon, 2510854034, [harprit-DS25](https://github.com/harprit-DS25)
 - Bishal Upadhyaya, ds25m017, Bishal-M017 (https://github.com/Bishal-M017)
