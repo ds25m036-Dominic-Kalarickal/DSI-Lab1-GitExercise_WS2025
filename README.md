@@ -26,7 +26,15 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-- * Denis Hoxha, ds25m032, [ds25m032-Denis-Hoxha](https://github.com/ds25m032-Denis-Hoxha) 
+- Ghanem Ayman, ds25m029, @aymxng
+- Bouslama, 2510854020, ds25m020-Bouslama
+- Christoph Gooss, ds25m040, [ds25m040-Christoph-Gooss](https://github.com/ds25m040-Christoph-Gooss)
+- Denis Hoxha, ds25m032, [ds25m032-Denis-Hoxha](https://github.com/ds25m032-Denis-Hoxha) 
+- Yevgen Kolesnyk, ds24m046, https://github.com/ds24m046
+- Rahul Maddineni, DS25M008, [Rahul-DS25M008](https://github.com/Rahul-DS25M008)
+- Bernhard Prinz, ds25m027, [ds25m037-prinz](https://github.com/ds25m037-prinz)
+- Mira Radakovic, 62005377, [ds24m042-mira-radakovic](https://github.com/ds24m042-mira-radakovic)
+- Philipp Seidl, 2510854043, [philippseidl](https://github.com/philippseidl)
 
 ## Goals
 
