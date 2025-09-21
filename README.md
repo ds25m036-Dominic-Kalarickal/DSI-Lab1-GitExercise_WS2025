@@ -30,6 +30,7 @@ Your entry should maintain alphabetical order and use this format:
 
 - Anwar Muzammal, ds25m004, ds25m004-Muzammal-Anwar (https://github.com/ds25m004-Muzammal-Anwar)
 - Wares Aram, 52504736, [ds25m035](https://github.com/ds25m035)
+- Beyza Arbaz
 - Bouslama, 2510854020, ds25m020-Bouslama
 - Helga Deutschmann, ds25m046, [ds25m046-Helga](https://github.com/ds25m046-Helga)
 - Ghanem Ayman, ds25m029, @aymxng
@@ -50,9 +51,9 @@ Your entry should maintain alphabetical order and use this format:
 - Yingying HU, ds25m047, [Yingyinghu66](https://github.com/Yingyinghu66)
 - SCHWABE Lara, ds25m009, [ds25m009-Lara-Schwabe](https://github.com/ds25m009-Lara-Schwabe)
 - Philipp Seidl, 2510854043, [philippseidl](https://github.com/philippseidl)
+- Springer Christoph, ds25m044, [ds25m044-christoph-springer](https://github.com/ds25m044-christoph-springer)
 - Harprit Sumon, 2510854034, [harprit-DS25](https://github.com/harprit-DS25)
 - Bishal Upadhyaya, ds25m017, Bishal-M017 (https://github.com/Bishal-M017)
-- Springer Christoph, ds25m044, [ds25m044-christoph-springer](https://github.com/ds25m044-christoph-springer)
 
 ## Goals
 
