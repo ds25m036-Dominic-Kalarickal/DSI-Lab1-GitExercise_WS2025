@@ -23,7 +23,6 @@ Your entry should maintain alphabetical order and use this format:
 
 ```         
 * Your Name, Student ID, [username](https://github.com/username)
-Bishal Upadhyaya, ds25m017, Bishal-M017 (https://github.com/Bishal-M017)
 ```
 
 ## Participants
@@ -44,6 +43,8 @@ Bishal Upadhyaya, ds25m017, Bishal-M017 (https://github.com/Bishal-M017)
 - Mira Radakovic, 62005377, [ds24m042-mira-radakovic](https://github.com/ds24m042-mira-radakovic)
 - Gorkem Sakarya  - ds25m011 - https://github.com/sakaryag
 - Philipp Seidl, 2510854043, [philippseidl](https://github.com/philippseidl)
+- Bishal Upadhyaya, ds25m017, Bishal-M017 (https://github.com/Bishal-M017)
+- Springer Christoph, ds25m044, [ds25m044-christoph-springer](https://github.com/ds25m044-christoph-springer)
 
 ## Goals
 
